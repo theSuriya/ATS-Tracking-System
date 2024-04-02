@@ -28,11 +28,11 @@ To get started with the ATS Tracker, follow these steps:
 
 ## Deployment
 
-The ATS Tracker is deployed on the Hugging Face Spaces platform. You can access the deployed application [here](https://huggingface.co/spaces/your_username/ats-tracker).
+The ATS Tracker is deployed on the Hugging Face Spaces platform. You can access the deployed application [here](https://huggingface.co/spaces/suriya7/ATS-Tracking-System).
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 
