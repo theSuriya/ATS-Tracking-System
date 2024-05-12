@@ -21,7 +21,7 @@ To get started with the ATS Tracker, follow these steps:
 2. **Install Dependencies**: Install the required dependencies by running `pip install -r requirements.txt`.
 
 3. **Google API KEY**:Go to this site to generate api key [HERE](https://aistudio.google.com) You can see left side generate api thn click and copy. Once you have the api key, locate the .env file in your project directory. Open it and paste your aoi key like this:
-  ```bash
+  ```dotenv
   GOOGLE_API_KEY = "paste the api key here"
   ```
 4. **Run the Application**: Run the application locally using Streamlit by executing `streamlit run app.py`.
